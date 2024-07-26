@@ -1,0 +1,5 @@
+Flask==2.1.2
+pandas==1.4.2
+python-dotenv==0.20.0
+pandasai==0.1.0
+google-gemini==0.1.0
